@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sneh-a
+- 👋 Hi, I’m @sneha_06
 - 👀 I’m interested in exploring new  technical ideas.
 - 🌱 I’m currently learning c/c++....
 - 
